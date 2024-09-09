@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "Skills.html",
+    "href": "Skills.html",
+    "title": "website",
+    "section": "",
+    "text": "R\n\n\n\n\n\n\n\n\nVisualization with ggplot2\n\n\nData manipulation with dplyr\n\n\nReport creation with Rmarkdown\n\n\nMachine Learning with the tidymodels framework\n\n\n\nPython\n\n\n\n\n\n\n\n\nVisualization with Matplotlib and Altair\n\n\nUser interface creation with Streamlit\n\n\nMachine Learning with Scikit-Learn\n\n\nAlso familiar with: pandas, numpy, scipy, SQLAlchemy\n\n\n\nSQL\n\n\n\n\n\n\n\n\nTable manipulation: aggregations, joins, pivots, …\n\n\n\nVBA\n\n\n\n\n\n\n\n\nBasic Knowledge\n\n\n\nHTML/CSS"
+  },
+  {
+    "objectID": "Presentation.html",
+    "href": "Presentation.html",
+    "title": "website",
+    "section": "",
+    "text": "Master’s student in Business Economics with a specialization in Data Science  I’ve always loved understanding why things are the way they are, which is what led me to this field. Through my models, it allows me to constantly gather more information.\n\n\n\n\n\n\n\ngreg.jlt03@gmail.com\n\n\n\n\n\nMy LinkedIn\n\n\n\n\n\nMy GitHub"
+  },
+  {
+    "objectID": "Education.html",
+    "href": "Education.html",
+    "title": "website",
+    "section": "",
+    "text": "Faculté des deux Lions, Tours | Master’s in Business Economics | Sept 2023 - Sept 2025\n\n\n\nMicro-econometric and micro-economic studies\n\n\nLearning and implementation of unsupervised classification systems (PCA, MCA, …) and supervised methods using ensemble techniques (Boosting, Random Forest, …) and deep learning (CNN, RNN, …)\n\n\n\nFaculté des deux Lions, Tours | Bachelor’s in Economics | Sept 2021 - Sept 2023\n\n\n\nMicro-economic, statistical, mathematical, and econometric studies\n\n\nDiscovery and learning of programming software\n\n\n\nIUT de l’Indre, Cheatauroux | DUT in Business and Administration Management | Sept 2019 - Sept 2021\n\n\n\nEntry of accounting and inventory records\n\n\nBank reconciliations\n\n\nReview of ledgers and preparation of financial statements"
+  },
+  {
+    "objectID": "Experience.html",
+    "href": "Experience.html",
+    "title": "website",
+    "section": "",
+    "text": "Internships\n\n\n\nReworld Media | Data Scientist Intern | June - August 2024\n\n\n\nAssisting in the implementation of an analysis process and machine learning workflow to optimally predict whether titles held by Reworld Media will be referenced on Google Discover\n\n\n\nADMR de l’indre | Accounting Assistant Intern | April - June 2021\n\n\n\nAssisted with the completion of the 2020 financial statements\n\n\nBank reconciliations\n\n\nCreated a dashboard in Excel\n\n\n\n\nJobs\n\n\n\nCastorama | Garden Department Sales Associate | July 2023\n\n\n\nShelving merchandise\n\n\nAdvising and directing customers\n\n\n\nCiblex | Warehouse Worker | July 2022\n\n\n\nSorting packages\n\n\nPreparation of orders\n\n\nManagement of the warehouse"
+  },
+  {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "website",
+    "section": "",
+    "text": "BatchMonitor \n\nBatchMonitor is a package that provides tools for linear optimization problems, specifically for bulk purchasing. It determines optimal lot combinations, solves dual problems for profit maximization, and analyzes price variation impacts.  Beside the function to solve primal and dual problem, the package also provides an lite interface, made with streamlit, to enter and visualize the results.\n\nChurn Prediction for a Telecom Company\n\nThis project aims to predict the churn of a iranian telecom company’s customers. The data was on kaggle and contains information about the customers, their contracts, and their usage. The project was divided into 3 parts: data exploration, model building, and model evaluation. You can find it here"
+  }
+]

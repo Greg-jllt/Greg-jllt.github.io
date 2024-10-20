@@ -1,0 +1,44 @@
+---
+title : "Education"
+---
+
+<span class="text-primary-emphasis">**Faculté des deux Lions, Tours | Master's in Business Economics | Sept 2023 - Sept 2025**</span>
+
+<div>
+  <ul class="text-primary-emphasis">
+    <li>Microeconomic studies:</li>
+    <ul>
+      <li>Consumer inertia</li>
+      <li>Advertising and its effects</li>
+      <li>Product Differentiation</li>
+    </ul>
+    <li>Micro-econometric studies:</li>
+    <ul>
+      <li>Time series</li>
+      <li>Survival analysis</li>
+      <li>Multinomial models</li>
+      <li>Count models</li>
+      <li>Binary choice models</li>
+    </ul>
+    <li>Learning and implementation of unsupervised classification systems (PCA, MCA, ...) and supervised methods using ensemble techniques (Boosting, Random Forest, ...) or deep learning.</li>
+  </ul>
+</div>
+
+<span class="text-primary-emphasis">**Faculté des deux Lions, Tours | Bachelor's in Economics | Sept 2021 - Sept 2023**</span>
+
+<div>
+  <ul class="text-primary-emphasis">
+    <li>Micro-economic, statistical, mathematical, and econometric studies.</li>
+    <li>Discovery and learning of programming software.</li>
+  </ul>
+</div>
+
+<span class="text-primary-emphasis">**IUT de l'Indre, Chateauroux | DUT in Business and Administration Management | Sept 2019 - Sept 2021**</span>
+
+<div>
+  <ul class="text-primary-emphasis">
+    <li>Entry of accounting and inventory records.</li>
+    <li>Bank reconciliations.</li>
+    <li>Review of ledgers and preparation of financial statements.</li>
+  </ul>
+</div>

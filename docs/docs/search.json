@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "Skills.html",
+    "href": "Skills.html",
+    "title": "Skills and Projects",
+    "section": "",
+    "text": "Skills\n\n\n\n\nR\n\n\n\n\nVisualization with ggplot2\n\n\nData manipulation with dplyr\n\n\nReport creation with Rmarkdown\n\n\nMachine Learning with the tidymodels framework\n\n\n\n\n\n\n\nPython\n\n\n\n\nVisualization with Matplotlib or Altair\n\n\nUser interface creation with Streamlit\n\n\nMachine Learning with Scikit-Learn\n\n\nWeb scraping with beautifulsoup and selenium.\n\n\nAlso familiar with: pandas, polars, numpy, scipy, SQLAlchemy, seaborn, plotly\n\n\n\n\n\n\n\nSQL\n\n\n\n\nTable manipulation: subqueries, aggregations, joins, pivots, …\n\n\n\n\n\n\n\nVBA\n\n\n\n\nBasic Knowledge\n\n\n\n\n\n\nProjects\n\n\n\n\nWealth means Democracy ?\n\n\n\nThe whole purpose of this small project is to study the possible link between a country’s wealthiness and its democracy “level” with an econometric approach. Does wealthiness mean a better democracy level or are things more complicated than we thought? You can find it here\n\n\n\n\n\n\nBatchMonitor\n\n\n\nThe BatchMonitor module aims to solve the following problem (link to the subject) and to extend this problem to as many situations as possible.BatchMonitor is a library that allows you to solve problems related to linear programming. It’s designed to be easy to use and to provide a simple interface. You can use it to solve problems in a variety of domains, such as logistics, and manufacturing.This library come with a web-app made with streamlit that allows you to quickly build and solve optimization problems and a CLI Typer. It also provides a set of tools and options to help you analyze and visualize the results of your optimization problems.This module enables the resolution of various types of problems. We refer to one as MinBatchExpense, which aims to minimize the consumer’s expenditure on different batches supplied by one or more batch sellers. The other is MaxEarnings, designed to maximize the profit of a unitary vendor.\n\n\n\n\n\n\n\nChurn Prediction for a Telecom Company\n\n\n\nThis project aims to predict the churn of a iranian telecom company’s customers. The data was on kaggle and contains information about the customers, their contracts, and their usage. The project was divided into 3 parts: data exploration, models building, and models evaluation. You can find it here (the file size is a bit huge).\n\n\n\n\n\n\nAttrition and Portfolio Value\n\n\n\nThe purpose of this project take place in the “Research, Realisation, Restitution” program. The whole study aims to explore the portfolio valuation and the phenomen of attrition. This project is currently in progress"
+  },
+  {
+    "objectID": "Experience.html",
+    "href": "Experience.html",
+    "title": "Experience",
+    "section": "",
+    "text": "Internships\n\n\n\nReworld Media | Data Scientist Intern | June - August 2024\n\n\n\nAssistance in setting up an analysis process and machine learning workflow to optimally predict whether titles held by Reworld Media will be referenced on Google Discover\n\n\n\nADMR de l’indre | Accounting Assistant Intern | April - June 2021\n\n\n\nAssisted with the completion of the 2020 financial statements\n\n\nBank reconciliations\n\n\nCreated a dashboard in Excel\n\n\n\n\nJobs\n\n\n\nCastorama | Garden Department Sales Associate | July 2023\n\n\n\nShelving merchandise\n\n\nAdvising and directing customers\n\n\n\nCiblex | Warehouse Worker | July 2022\n\n\n\nSorting packages\n\n\nPreparation of orders\n\n\nManagement of the warehouse"
+  },
+  {
+    "objectID": "Education.html",
+    "href": "Education.html",
+    "title": "Education",
+    "section": "",
+    "text": "Faculté des deux Lions, Tours | Master’s in Business Economics | Sept 2023 - Sept 2025\n\n\n\nMicroeconomic studies:\n\n\n\nConsumer inertia\n\n\nAdvertising and its effects\n\n\nProduct Differentiation\n\n\n\nMicro-econometric studies:\n\n\n\nTime series\n\n\nSurvival analysis\n\n\nMultinomial models\n\n\nCount models\n\n\nBinary choice models\n\n\n\nLearning and implementation of unsupervised classification systems (PCA, MCA, …) and supervised methods using ensemble techniques (Boosting, Random Forest, …) or deep learning.\n\n\n\nFaculté des deux Lions, Tours | Bachelor’s in Economics | Sept 2021 - Sept 2023\n\n\n\nMicro-economic, statistical, mathematical, and econometric studies.\n\n\nDiscovery and learning of programming software.\n\n\n\nIUT de l’Indre, Chateauroux | DUT in Business and Administration Management | Sept 2019 - Sept 2021\n\n\n\nEntry of accounting and inventory records.\n\n\nBank reconciliations.\n\n\nReview of ledgers and preparation of financial statements."
+  },
+  {
+    "objectID": "Presentation.html",
+    "href": "Presentation.html",
+    "title": "Presentation",
+    "section": "",
+    "text": "Master’s student in Business Economics with a specialization in Data Science  I’ve always loved understanding why things are the way they are, which is what led me to this field. Through my models, it allows me to constantly gather more information.\n\n\n\n\n\n\n\nMy Email\n\n\n\n\n\n\nMy GitHub"
+  }
+]
